@@ -1,0 +1,4 @@
+rootProject.name = 'cards-shuffler'
+include 'cards-shuffler-api'
+include 'card-shuffler-service'
+
